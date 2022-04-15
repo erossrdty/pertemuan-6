@@ -38,7 +38,7 @@
           <i class="fas fa-search"></i>
         </button>
       </div>
-
+      <button type="button" class="btn btn-primary float-end"><i class="fas fa-plus-circle"></i> Create</button>
       <div class="col-sm input-group mb-3 mt-3">
         <select class="form-select" id="filter" aria-label="Default select example">
           <option class="text-muted" selected>Filter film rating</option>
