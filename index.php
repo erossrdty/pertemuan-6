@@ -31,7 +31,7 @@
       </header>
 
     <div class="container">
-    <button type="button" class="btn btn-primary float-end"><i class="fas fa-plus-circle"></i> Create</button>
+    <button type="button" class="btn btn-primary float-end mt-3"><i class="fas fa-plus-circle"></i> Create</button>
     <div class="row">
       <div class="col-sm input-group mb-3 mt-3">
         <input type="text" class="form-control" id="search" placeholder="Cari Judul Film..." aria-label="Recipient's username" aria-describedby="button-addon2" />
